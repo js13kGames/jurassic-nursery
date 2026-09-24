@@ -1,4 +1,7 @@
 ---
+genres:
+  - simulation
+  - management
 post: https://github.com/Platane/jurassic-nursery/blob/master/doc/postmortem/index.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
